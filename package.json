@@ -1,0 +1,20 @@
+{
+  "name": "mobileappreal",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "firebase": "^5.10.1",
+    "react-native-events-calendar": "1.0.8",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "native-base": "2.11.0",
+    "react-native-paper": "2.2.8",
+    "react-native-vector-icons": "6.3.0",
+    "react-nav": "1.2.0",
+    "react-navigation": "3.3.0"
+  }
+}
