@@ -10,7 +10,7 @@ export default class Firebase extends React.Component{
     super(props);
  
   var config = {
-    apiKey: "AIzaSyCixAeqcQmV-CcbKOQnNTD9oArTLp55Exo",
+    apiKey: "Expo.Constants.manifest.extra.firebaseAPIKey",
     authDomain: "mobileappfirebase-50d2e.firebaseapp.com",
     databaseURL: "https://mobileappfirebase-50d2e.firebaseio.com",
     projectId: "mobileappfirebase-50d2e",

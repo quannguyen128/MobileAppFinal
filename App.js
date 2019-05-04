@@ -4,7 +4,6 @@ import { View } from 'react-native'
 import { createStackNavigator, createAppContainer, createBottomTabNavigator } from 'react-navigation'
 import MapScreen from './components/MapScreen'
 import HomeScreen from './components/HomeScreen'
-import ProfilesScreen from './components/ProfilesScreen';
 import InvoiceScreen from './components/InvoiceScreen'
 import CameraScreen from './components/CameraScreen'
 
